@@ -4,7 +4,7 @@
 
 This repository contains a Python-based simulation for the dynamic modeling and control of a 6-DOF aerial manipulator, which consists of a quadrotor UAV equipped with a 2-DOF rigid robotic arm. The primary goal of this project is to design and implement a robust nonlinear controller capable of achieving high-precision trajectory tracking for all 8 degrees of freedom (6 for the quadrotor, 2 for the manipulator).
 
-The dynamic model is based on the Newton-Euler formulation presented in the paper !["A New Quadrotor Manipulation System: Modeling and Point-to-Point Task Space Control"]([URL_TO_YOUR_3D_PLOT_IMAGE](https://doi.org/10.1007/s12555-015-0467-3)). The work explores the significant challenges of controlling such systems, particularly the strong, nonlinear dynamic coupling between the manipulator's motion and the stability of the aerial platform.
+The dynamic model is based on the Newton-Euler formulation presented in the paper !["A New Quadrotor Manipulation System: Modeling and Point-to-Point Task Space Control"](https://doi.org/10.1007/s12555-015-0467-3). The work explores the significant challenges of controlling such systems, particularly the strong, nonlinear dynamic coupling between the manipulator's motion and the stability of the aerial platform.
 
 ## Key Features
 
