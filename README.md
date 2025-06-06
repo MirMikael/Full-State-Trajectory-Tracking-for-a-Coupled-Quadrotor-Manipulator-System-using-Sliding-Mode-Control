@@ -26,6 +26,7 @@ The following plot shows the quadrotor successfully converging to and tracking t
 #### Manipulator Joints Tracking Performance
 
 This plot demonstrates the controller's high-performance tracking for the two manipulator joints. It is important to note that the joints (\theta_1 and θ₂) are accurately following their desired sinusoidal trajectories simultaneously as the quadrotor base executes its own complex path. This highlights the controller's ability to effectively manage the system's coupled dynamics and reject disturbances caused by the base's motion.
+
 ![8-Panel State Plot](https://github.com/MirMikael/Full-State-Trajectory-Tracking-for-a-Coupled-Quadrotor-Manipulator-System-using-Sliding-Mode-Control/blob/main/manipulator.png)
 
 
