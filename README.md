@@ -27,7 +27,6 @@ These plots illustrate the high-precision tracking for each of the 8 degrees of 
 
 ![8-Panel State Plot](URL_TO_YOUR_8_PANEL_PLOT_IMAGE)
 
-*(**نکته برای شما:** لطفاً عکس‌های نمودارهای موفق خود را در گیت‌هاب آپلود کرده و URL آن‌ها را در دو خط بالا جایگزین کنید.)*
 
 ## How to Run
 
