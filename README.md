@@ -20,11 +20,14 @@ The controller's effectiveness is demonstrated through a challenging trajectory 
 #### 3D Trajectory Tracking
 The following plot shows the quadrotor successfully converging to and tracking the desired circular path at a constant altitude.
 
-([URL_TO_YOUR_3D_PLOT_IMAGE](https://github.com/MirMikael/Full-State-Trajectory-Tracking-for-a-Coupled-Quadrotor-Manipulator-System-using-Sliding-Mode-Control/blob/main/3D.png))
+![3D Trajectory Plot](https://github.com/MirMikael/Full-State-Trajectory-Tracking-for-a-Coupled-Quadrotor-Manipulator-System-using-Sliding-Mode-Control/blob/main/3D.png?raw=true)
 
 #### State-wise Tracking Performance
 These plots illustrate the high-precision tracking for each of the 8 degrees of freedom. Notably, the roll (phi) and pitch (theta) angles are automatically adjusted by the controller to generate the necessary lateral forces for circular motion, demonstrating the controller's correct physical behavior.
 
+####Manipulator Joints Tracking Performance
+
+This plot demonstrates the controller's high-performance tracking for the two manipulator joints. It is important to note that the joints (\theta_1 and θ₂) are accurately following their desired sinusoidal trajectories simultaneously as the quadrotor base executes its own complex path. This highlights the controller's ability to effectively manage the system's coupled dynamics and reject disturbances caused by the base's motion.
 ![8-Panel State Plot](URL_TO_YOUR_8_PANEL_PLOT_IMAGE)
 
 
