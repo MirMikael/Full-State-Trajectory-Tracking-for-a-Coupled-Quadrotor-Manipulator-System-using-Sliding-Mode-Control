@@ -36,7 +36,7 @@ This plot demonstrates the controller's high-performance tracking for the two ma
 2.  Clone this repository.
 3.  Run the main Python script:
     ```bash
-    python Aerial Manipulator usingSliding Mode Control.py
+    python Aerial Manipulator usingSliding Mode Control.ipynb
     ```
 
 ## Future Work & Research Interests
